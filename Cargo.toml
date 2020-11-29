@@ -1,0 +1,12 @@
+[package]
+name = "kitara"
+version = "0.1.0"
+authors = ["georgetheka <george@theka.net>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+csv = "1.1"
+enigo = "0.0.14"
+midir = "0.7.0"
