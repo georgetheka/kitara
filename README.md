@@ -2,7 +2,7 @@
 
 ### Overview
 
-Kitara is a simple cross-platform program written in Rust that can convert any MIDI guitar to a computer keyboard. I wrote this quickly on a Sunday afternoon, just for fun, so this program has only tested on MacOs Catalina.
+Kitara is a simple cross-platform program written in Rust that can convert any MIDI guitar to a computer keyboard. I wrote this quickly on a Sunday afternoon, just for fun, so this program has only been tested on MacOs Catalina.
 
 ### Requirements
 
